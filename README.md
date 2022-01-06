@@ -1,2 +1,2 @@
 # Graph-Isomorphism-detection-implemented-by-Python
-I implemented a graph related problem named 'Isomorphism detection' between two complex graphs using python 3 programming language
+I implemented a graph related problem named 'Isomorphism detection' between two complex graphs using dividing and matching algorithm by Zeng et al.'s work [K. Zeng, X. Fan, M. Dong, and P. Yang. A fast algorithm for kinematic chain isomorphism identification based on dividing and matching vertices. Mechanism and Machine Theory, 72:25–38, 2014.]. I have implemented this project’s algorithms in Python and have used Spyder (Python 3.6 version) integrated development environment (IDE) which is pre installed in Anaconda Navigator. 
